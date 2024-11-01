@@ -1,15 +1,21 @@
 {
   "tasks": [
     {
-      "id": 1,
+      "id": "1",
       "tarefa": "Estudar php",
       "categoria": "Estudos",
-      "concluido": false
+      "concluido": true
     },
     {
-      "id": 2,
+      "id": "2",
       "tarefa": "Estudar Angular",
       "categoria": "Trabalho",
+      "concluido": true
+    },
+    {
+      "id": "82db",
+      "tarefa": "Aprender React",
+      "categoria": "trabalho",
       "concluido": true
     }
   ]
